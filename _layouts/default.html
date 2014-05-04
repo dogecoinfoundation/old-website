@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ page.title }}</title>
+	<!-- Meta -->
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	
+	<!-- HTML5 Shiv -->
+	<!--[if lt IE 9]>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+	<![endif]-->
+	
+	<!-- CSS -->
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/foundation.css" rel="stylesheet">
+	<style>
+	body {
+		padding-top: 75px;
+		background-color: #F2F2F2;
+	}
+	
+	.navbar-shadow {
+		-webkit-box-shadow: 0px 0px 11px 0px rgba(50, 50, 50, 0.5);
+		-moz-box-shadow:    0px 0px 11px 0px rgba(50, 50, 50, 0.5);
+		box-shadow:         0px 0px 11px 0px rgba(50, 50, 50, 0.5);
+	}
+	</style>
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" href="/img/300coin.png">
+	<link href="/img/300coin.png" rel="shortcut icon">
+	<link href="/img/300coin.png" rel="apple-touch-icon-precomposed">
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top navbar-shadow" style="background-color: #158cba;">
+	<div class="navbar-inner">
+		<div class="container">
+			<div class="navbar-header navbarNew">
+				<a href="/" class="navbar-brand navbar-colorchange-alt">Dogecoin Foundation</a>
+				<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="navbar-collapse collapse navbar-right" id="navbar-main">
+				<ul class="nav navbar-nav">
+					<li><a href="/news" class="navbar-colorchange-alt">News</a></li>
+					<li><a href="/about" class="navbar-colorchange-alt">About Us</a></li>
+					<li><a href="/whydonate" class="navbar-colorchange-alt">Why Donate?</a></li>
+					<li><a href="/projects" class="navbar-colorchange-alt">Active Projects</a>
+					<li><a href="/contact" class="navbar-colorchange-alt">Contact</a></li>
+					<li><a href="/projects" class="navbar-colorchange-alt">Donate</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+    <div id="content" class="container">
+
+    	{{ content }}
+          
+    </div>
+
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/js/foundation.js" type="text/javascript"></script>
+
+</body>
+</html>
