@@ -1,0 +1,171 @@
+html, body{
+    margin:0px;
+    padding:0px;
+}
+
+.fadein-line { 
+    height: 2px;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, #D7D7D7));
+}
+
+#content {
+	background-color:#FFF;
+	max-width:80%;
+	padding-bottom:30px;
+	margin-bottom:50px;
+}
+
+#roadmapAccordian img {
+    max-width:100%;
+	padding-top:10px;
+}
+
+.white {
+	color: white !important;
+}
+
+.navbar-brand, .navbar-nav li a {
+	color: white !important; 
+    line-height: 65px !important;
+    height: 65px !important;
+    padding-top: 0 !important;
+	font-size: 1.3em;
+}
+
+@media (max-width: 979px) {
+	.navbar-brand, .navbar-nav li a {
+		color: white !important; 
+		line-height: 50px !important;
+		height: 50px !important;
+		padding-top: 0 !important;
+		font-size: 1.3em;
+	}
+}
+
+.navbar-colorchange:hover {
+	color: #C7C7CC !important; 
+}
+
+.navbar-colorchange-alt:hover {
+	color: #D1EEFC !important; 
+}
+
+.navbar  {
+	border: 0px !important;
+}
+
+.transparent {
+    background: rgba(0,0,0,0.4);
+}
+
+.panel-headingNew {
+    padding: 10px 15px;
+}
+
+.panel-titleNew {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.panel-titleNew a:hover {
+    text-decoration:none;
+	color: #008cba;
+}
+
+.col-md-10 > h4 {
+	font-weight:bold;
+}
+
+
+.centerImg {
+	display:block;
+	margin:auto;
+	vertical-align:middle;
+}
+
+#buttonDiv {
+	text-align:center;
+}
+
+.btn-home {
+	width:300px;
+	margin: 5px;
+}
+
+.btn-homeDiv {
+	display:inline-block;
+}
+
+.reasons {
+	border: 3px solid #008cba;
+	border-radius: 10px;
+	height: 270px;
+	width: 32.2%;
+	margin: 5px;
+	overflow: auto;
+}
+
+.reasons > * {
+	text-align:center;
+}
+
+#addressTableDiv {
+	padding-top:20px;
+}
+
+#addressTableDiv > table {
+	border: 2px solid #008cba;
+	width:100%;
+}
+#addressTableDiv > table > thead > tr > th {
+	cursor: pointer;
+}
+#addressTableDiv > table > * > tr > * {
+	border: 2px solid #008cba;
+	font-size:12pt;
+	padding: 5px 0px 5px 5px;
+}
+#addressTableDiv > table > * > tr > :first-child {
+	width:30%;
+}
+#addressTableDiv > table > * > tr > :nth-child(2) {
+	width:15%;
+}
+#addressTableDiv > table > * > tr > :nth-child(3) {
+	width:40%;
+}
+#addressTableDiv > table > * > tr > :nth-child(4) {
+	width:15%;
+}
+
+
+#faq > h4 {
+	font-style:italic;
+}
+
+#faq > p {
+	padding-bottom:10px;
+}
+
+
+#aboutIndex > ol > li > a {
+	cursor:pointer
+}
+
+.toTop {
+	float:right;
+	cursor:pointer;
+	font-size:10pt;
+	padding-right:20px;
+	text-decoration:underline;
+}
+
+.postTime {
+	font-size:8pt;
+	color:#008cba;
+}
+
+.trello-card {
+	padding: 3px;
+	max-width: 100%;
+}
