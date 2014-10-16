@@ -1,49 +1,57 @@
 ---
-layout: default
-title: About The Dogecoin Foundation
+layout: rightbar
+title: About Us
 ---
 
-## About Us
+# About Us
 
-The Dogecoin Foundation is a non-profit organization created for and by the members of the worldwide Dogecoin community and is incorporated under the Colorado Revised Nonprofit Corporation Act.
+#### The Dogecoin Foundation is a non-profit organization created for and by the members of the worldwide Dogecoin community and is incorporated under the Colorado Revised Nonprofit Corporation Act.
 
-Our purpose is to facilitate the continuing prosperity of Dogecoin through promotional and charitable endeavors and we seek to foster and expand the community ideals of camaraderie and playful discovery and to empower people the world over.
+#### Our purpose is to facilitate the continuing prosperity of Dogecoin through promotional and charitable endeavors and we seek to foster and expand the community ideals of camaraderie and playful discovery and to empower people the world over.
 
-The Foundation provides guidance and essential infrastructure as well as a framework for self-organizing and governing community projects. It also encourages the development of software and services for Dogecoin and related projects worldwide.
+<!-- section -->
 
-## Board of Directors
+# Milestones
 
-The current Board of Directors is appointed temporarily, until an elected Board can take it&apos;s place.
+#### The Dogecoin Foundation is still in the process of getting set-up. Below you will find the Foundation&apos;s milestones until elections will be held:
 
-Current Directors are:
-
-- Felix von Drigalski
-- Jens Wiechers
-- Steven Hirschmann
-- Josh Mohland
-- Debbie Ballard
-
-## Milestones
-
-The Dogecoin Foundation is still in the process of getting set-up. Below you will find the Foundation&apos;s milestones until elections will be held:
-
-**Website**
+#### **Website**
 
 - Develop website for information and communication: in progress.
 - Develop support and member access options: pending on website.
 
-**Communications**
+#### **Communications**
 
 - Find members willing to help with communication: in progress.
 - Establish a PR team: interim team set-up, until membership is opened.
 
-**Open Membership**
+#### **Open Membership**
 
 - Establishing a small set of procedures and policies for membership: in progress.
 - Membership sign-up via website: pending on procedures.
 
-**Legal/Compliance**
+#### **Legal/Compliance**
 
 - Bylaws: completed at 2014-08-24
 - Continue talks with UltraPro with regard to the Trademark situation: in progress
 - Develop election methodology and requirements: in progress
+
+<!-- column -->
+
+### Board of Directors
+
+##### Felix von Drigalski
+
+##### Jens Wiechers
+
+##### Steven Hirschmann
+
+##### Josh Mohland
+
+##### Debbie Ballard
+
+<!-- section -->
+
+### Resources
+
+##### [The Dogecoin Foundation Bylaws](/resources/20140824-Bylaws-Dogecoin-Foundation.pdf)
