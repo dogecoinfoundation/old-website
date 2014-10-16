@@ -21,7 +21,7 @@ html, body{
 }
 
 .white {
-	color: white !important;
+	color: white;
 }
 
 .navbar-brand, .navbar-nav li a {
@@ -168,4 +168,8 @@ html, body{
 .trello-card {
 	padding: 3px;
 	max-width: 100%;
+}
+
+h1 {
+	color: #007AFF;
 }
