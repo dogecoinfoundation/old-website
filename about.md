@@ -54,4 +54,8 @@ title: About Us
 
 ### Resources
 
-##### [The Dogecoin Foundation Bylaws](/resources/20140824-Bylaws-Dogecoin-Foundation.pdf)
+[Arcticles of Incorporation](/resources/20140623-ArticlesOfIncorp-Dogecoin-Foundation.pdf)
+
+[Federal Tax Id](/resources/20140623-Federal-Tax-Id-Dogecoin-Foundation.pdf)
+
+[The Dogecoin Foundation Bylaws](/resources/20140824-Bylaws-Dogecoin-Foundation.pdf)
