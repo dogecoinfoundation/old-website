@@ -165,6 +165,10 @@ html, body{
 	color:#008cba;
 }
 
+.postContent {
+	margin-bottom: 20px;
+}
+
 .trello-card {
 	padding: 3px;
 	max-width: 100%;
@@ -172,4 +176,14 @@ html, body{
 
 h1 {
 	color: #007AFF;
+}
+
+footer {
+	margin-top: 10px;
+	background-color: black;
+	color: white;
+}
+
+footer a, footer h4, footer h5 {
+	color: white;
 }

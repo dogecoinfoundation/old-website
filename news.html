@@ -18,5 +18,7 @@ title: Foundation News
 		<div class="col-md-2">
 		</div>
 	</div>
-	<hr  class="fadein-line"/>
+	{% if forloop.last == false %}
+		<hr class="fadein-line" />
+	{% endif %}
 {% endfor %}
