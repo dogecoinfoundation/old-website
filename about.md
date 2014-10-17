@@ -5,7 +5,7 @@ title: About Us
 
 # About Us
 
-#### The Dogecoin Foundation is a non-profit organization created for and by the members of the worldwide Dogecoin community and is incorporated under the Colorado Revised Nonprofit Corporation Act.
+#### The Dogecoin Foundation is a Colorado non-profit corporation created for and by the members of the worldwide Dogecoin community and is incorporated under the Colorado Revised Nonprofit Corporation Act.
 
 #### Our purpose is to facilitate the continuing prosperity of Dogecoin through promotional and charitable endeavors and we seek to foster and expand the community ideals of camaraderie and playful discovery and to empower people the world over.
 
