@@ -189,3 +189,7 @@ footer {
 footer a, footer h4, footer h5 {
 	color: white;
 }
+
+footer a.explicit-link {
+	text-decoration: underline;
+}
