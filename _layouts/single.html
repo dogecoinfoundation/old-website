@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% assign sections = content | split:'<!-- section -->' %}
+{% for section in sections %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">{{ section }}</div>
+    </div>
+
+  </div>
+  {% if forloop.last == false %}
+    <hr class="fadein-line" />
+  {% endif %}
+
+{% endfor %}

@@ -1,6 +1,7 @@
 html, body{
     margin:0px;
     padding:0px;
+    height: 100%;
 }
 
 .fadein-line { 
@@ -180,8 +181,9 @@ h1 {
 
 footer {
 	margin-top: 10px;
-	background-color: black;
+	background-color: #333;
 	color: white;
+	bottom: 0px;
 }
 
 footer a, footer h4, footer h5 {
