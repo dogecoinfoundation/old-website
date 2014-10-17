@@ -1,6 +1,7 @@
 ---
 layout: rightbar
 title: About Us
+description: About The Dogecoin Foundation
 ---
 
 # About Us
