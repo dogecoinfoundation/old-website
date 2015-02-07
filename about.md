@@ -45,11 +45,11 @@ description: About The Dogecoin Foundation
 
 ##### Jens Wiechers
 
-##### Steven Hirschmann
-
 ##### Josh Mohland
 
 ##### Debbie Ballard
+
+##### Patrick Lodder
 
 <!-- section -->
 
