@@ -18,7 +18,7 @@ description: About The Dogecoin Foundation
 
 #### **Website**
 
-- Develop website for information and communication: in progress.
+- Develop website for information and communication: completed
 - Develop support and member access options: pending on website.
 
 #### **Communications**
@@ -29,12 +29,12 @@ description: About The Dogecoin Foundation
 #### **Open Membership**
 
 - Establishing a small set of procedures and policies for membership: in progress.
-- Membership sign-up via website: pending on procedures.
+- Membership sign-up via website: in progress.
 
 #### **Legal/Compliance**
 
-- Bylaws: completed at 2014-08-24
-- Continue talks with UltraPro with regard to the Trademark situation: in progress
+- Bylaws: completed
+- Continue talks with UltraPro with regard to the Trademark situation: completed
 - Develop election methodology and requirements: in progress
 
 <!-- column -->
