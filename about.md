@@ -19,16 +19,16 @@ description: About The Dogecoin Foundation
 #### **Website**
 
 - Develop website for information and communication: completed
-- Develop support and member access options: pending on website.
+- Develop support and member access options: in progress.
 
 #### **Communications**
 
-- Find members willing to help with communication: in progress.
+- Find members willing to help with communication: postponed.
 - Establish a PR team: interim team set-up, until membership is opened.
 
 #### **Open Membership**
 
-- Establishing a small set of procedures and policies for membership: in progress.
+- Establishing a small set of procedures and policies for membership: completed.
 - Membership sign-up via website: in progress.
 
 #### **Legal/Compliance**
